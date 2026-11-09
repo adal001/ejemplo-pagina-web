@@ -1,0 +1,56 @@
+/* Estilos generales */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #0D0F14;
+    color: #E6E6E6;
+    font-family: Arial, sans-serif;
+}
+
+/* GIF */
+
+img {
+    display: block;
+    width: 250px;
+    height: auto;
+    border: 2px solid #AEB4BF;
+}
+
+/* Encabezados */
+
+h1 {
+    color: #FF4FD8;
+}
+
+h2 {
+    color: #00E5FF;
+}
+
+/* Lista de contacto */
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Enlaces */
+
+a {
+    color: #00E5FF;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus-visible {
+    color: #FF4FD8;
+}
+
+a:focus-visible {
+    outline: 2px solid #FF4FD8;
+    outline-offset: 4px;
+}
