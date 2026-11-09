@@ -48,6 +48,16 @@ ul {
     padding: 0;
 }
 
+li {
+    width: 240px;
+    max-width: 100%;
+    padding: 10px 16px;
+    text-align: center;
+    background-color: #151922;
+    border: 1px solid #2B303B;
+    border-radius: 8px;
+}
+
 /* Enlaces */
 
 a {
